@@ -1,3 +1,4 @@
 # stepik---auto-tests-course_plvnpln
-tasks for stepic (selenium + python)
-https://stepik.org/course/575
+Tasks for stepic.org : (selenium + python)
+ Web site : https://stepik.org/course/575
+  
